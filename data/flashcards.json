@@ -1,0 +1,26 @@
+[
+  {
+    "term": "DFU",
+    "def": "Drainage Fixture Unit; probable discharge measure."
+  },
+  {
+    "term": "Trap arm",
+    "def": "Pipe between trap weir and the vent."
+  },
+  {
+    "term": "Developed length",
+    "def": "Straight runs + equivalent lengths for fittings."
+  },
+  {
+    "term": "RPZ",
+    "def": "Reduced pressure zone backflow assembly (high hazard)."
+  },
+  {
+    "term": "AAV",
+    "def": "Air admittance valve; placement/jurisdiction limits apply."
+  },
+  {
+    "term": "Backwater valve",
+    "def": "Prevents reverse flow in drainage line."
+  }
+]

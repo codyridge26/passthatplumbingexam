@@ -1,0 +1,522 @@
+[
+  {
+    "id": "BUS1",
+    "cat": "business",
+    "q": "Which clause best protects change scope mid\u2011job?",
+    "a": [
+      "Time is of the essence",
+      "Written change\u2011order requirement with pricing method",
+      "Arbitration only",
+      "Warranty only"
+    ],
+    "correct": 1,
+    "ex": "Signed COs make scope/price/time changes enforceable."
+  },
+  {
+    "id": "BUS2",
+    "cat": "business",
+    "q": "Which clause best protects change scope mid\u2011job \u2014 what is required?",
+    "a": [
+      "Time is of the essence",
+      "Written change\u2011order requirement with pricing method",
+      "Arbitration only",
+      "Warranty only"
+    ],
+    "correct": 1,
+    "ex": "Signed COs make scope/price/time changes enforceable."
+  },
+  {
+    "id": "BUS3",
+    "cat": "business",
+    "q": "Which clause best protects change scope mid\u2011job \u2014 choose the best answer.",
+    "a": [
+      "Time is of the essence",
+      "Written change\u2011order requirement with pricing method",
+      "Arbitration only",
+      "Warranty only"
+    ],
+    "correct": 1,
+    "ex": "Signed COs make scope/price/time changes enforceable."
+  },
+  {
+    "id": "BUS4",
+    "cat": "business",
+    "q": "Which clause best protects change scope mid\u2011job \u2014 which applies under code?",
+    "a": [
+      "Time is of the essence",
+      "Written change\u2011order requirement with pricing method",
+      "Arbitration only",
+      "Warranty only"
+    ],
+    "correct": 1,
+    "ex": "Signed COs make scope/price/time changes enforceable."
+  },
+  {
+    "id": "BUS5",
+    "cat": "business",
+    "q": "Workers\u2019 compensation covers:",
+    "a": [
+      "Client injury",
+      "Employee injury",
+      "Tool theft",
+      "Property damage"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "BUS6",
+    "cat": "business",
+    "q": "Workers\u2019 compensation covers:",
+    "a": [
+      "Client injury",
+      "Employee injury",
+      "Tool theft",
+      "Property damage"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "BUS7",
+    "cat": "business",
+    "q": "Workers\u2019 compensation covers:",
+    "a": [
+      "Client injury",
+      "Employee injury",
+      "Tool theft",
+      "Property damage"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "BUS8",
+    "cat": "business",
+    "q": "Workers\u2019 compensation covers:",
+    "a": [
+      "Client injury",
+      "Employee injury",
+      "Tool theft",
+      "Property damage"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "GEN9",
+    "cat": "general",
+    "q": "Who pulls a plumbing permit on a permitted job?",
+    "a": [
+      "Journeyman plumber",
+      "Project owner",
+      "Licensed plumbing contractor",
+      "Inspector"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "GEN10",
+    "cat": "general",
+    "q": "Who pulls a plumbing permit on a permitted job \u2014 what is required?",
+    "a": [
+      "Journeyman plumber",
+      "Project owner",
+      "Licensed plumbing contractor",
+      "Inspector"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "GEN11",
+    "cat": "general",
+    "q": "Who pulls a plumbing permit on a permitted job \u2014 choose the best answer.",
+    "a": [
+      "Journeyman plumber",
+      "Project owner",
+      "Licensed plumbing contractor",
+      "Inspector"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "GEN12",
+    "cat": "general",
+    "q": "Who pulls a plumbing permit on a permitted job \u2014 which applies under code?",
+    "a": [
+      "Journeyman plumber",
+      "Project owner",
+      "Licensed plumbing contractor",
+      "Inspector"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "FIX13",
+    "cat": "fixtures",
+    "q": "A lavatory clearance from centerline to sidewall is commonly:",
+    "a": [
+      "6 in",
+      "12 in",
+      "15 in",
+      "24 in"
+    ],
+    "correct": 2,
+    "ex": "Check ADA/local amendments."
+  },
+  {
+    "id": "FIX14",
+    "cat": "fixtures",
+    "q": "A lavatory clearance from centerline to sidewall is commonly:",
+    "a": [
+      "6 in",
+      "12 in",
+      "15 in",
+      "24 in"
+    ],
+    "correct": 2,
+    "ex": "Check ADA/local amendments."
+  },
+  {
+    "id": "FIX15",
+    "cat": "fixtures",
+    "q": "A lavatory clearance from centerline to sidewall is commonly:",
+    "a": [
+      "6 in",
+      "12 in",
+      "15 in",
+      "24 in"
+    ],
+    "correct": 2,
+    "ex": "Check ADA/local amendments."
+  },
+  {
+    "id": "FIX16",
+    "cat": "fixtures",
+    "q": "A lavatory clearance from centerline to sidewall is commonly:",
+    "a": [
+      "6 in",
+      "12 in",
+      "15 in",
+      "24 in"
+    ],
+    "correct": 2,
+    "ex": "Check ADA/local amendments."
+  },
+  {
+    "id": "WH17",
+    "cat": "water_heaters",
+    "q": "TPR valve must discharge:",
+    "a": [
+      "Upward",
+      "To a safe location by gravity",
+      "Into trap primer",
+      "Capped"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "WH18",
+    "cat": "water_heaters",
+    "q": "TPR valve must discharge:",
+    "a": [
+      "Upward",
+      "To a safe location by gravity",
+      "Into trap primer",
+      "Capped"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "WH19",
+    "cat": "water_heaters",
+    "q": "TPR valve must discharge:",
+    "a": [
+      "Upward",
+      "To a safe location by gravity",
+      "Into trap primer",
+      "Capped"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "WH20",
+    "cat": "water_heaters",
+    "q": "TPR valve must discharge:",
+    "a": [
+      "Upward",
+      "To a safe location by gravity",
+      "Into trap primer",
+      "Capped"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "WS21",
+    "cat": "water_supply",
+    "q": "Backflow high\u2011hazard device:",
+    "a": [
+      "AVB",
+      "PVB",
+      "RPZ",
+      "Dual check"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "WS22",
+    "cat": "water_supply",
+    "q": "Backflow high\u2011hazard device:",
+    "a": [
+      "AVB",
+      "PVB",
+      "RPZ",
+      "Dual check"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "WS23",
+    "cat": "water_supply",
+    "q": "Backflow high\u2011hazard device:",
+    "a": [
+      "AVB",
+      "PVB",
+      "RPZ",
+      "Dual check"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "WS24",
+    "cat": "water_supply",
+    "q": "Backflow high\u2011hazard device:",
+    "a": [
+      "AVB",
+      "PVB",
+      "RPZ",
+      "Dual check"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "SAN25",
+    "cat": "sanitary",
+    "q": "Minimum slope for 3\u2033 horizontal drainage:",
+    "a": [
+      "1/8 in/ft",
+      "1/4 in/ft",
+      "3/8 in/ft",
+      "1/2 in/ft"
+    ],
+    "correct": 1,
+    "ex": "Many codes use 1/4 in/ft \u22643\u2033; verify local."
+  },
+  {
+    "id": "SAN26",
+    "cat": "sanitary",
+    "q": "Minimum slope for 3\u2033 horizontal drainage:",
+    "a": [
+      "1/8 in/ft",
+      "1/4 in/ft",
+      "3/8 in/ft",
+      "1/2 in/ft"
+    ],
+    "correct": 1,
+    "ex": "Many codes use 1/4 in/ft \u22643\u2033; verify local."
+  },
+  {
+    "id": "SAN27",
+    "cat": "sanitary",
+    "q": "Minimum slope for 3\u2033 horizontal drainage:",
+    "a": [
+      "1/8 in/ft",
+      "1/4 in/ft",
+      "3/8 in/ft",
+      "1/2 in/ft"
+    ],
+    "correct": 1,
+    "ex": "Many codes use 1/4 in/ft \u22643\u2033; verify local."
+  },
+  {
+    "id": "SAN28",
+    "cat": "sanitary",
+    "q": "Minimum slope for 3\u2033 horizontal drainage:",
+    "a": [
+      "1/8 in/ft",
+      "1/4 in/ft",
+      "3/8 in/ft",
+      "1/2 in/ft"
+    ],
+    "correct": 1,
+    "ex": "Many codes use 1/4 in/ft \u22643\u2033; verify local."
+  },
+  {
+    "id": "VNT29",
+    "cat": "vents",
+    "q": "Wet venting allows shared:",
+    "a": [
+      "Trap arms",
+      "Vent and drain section within limits",
+      "Storm leaders",
+      "Stacks only"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "VNT30",
+    "cat": "vents",
+    "q": "Wet venting allows shared:",
+    "a": [
+      "Trap arms",
+      "Vent and drain section within limits",
+      "Storm leaders",
+      "Stacks only"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "VNT31",
+    "cat": "vents",
+    "q": "Wet venting allows shared:",
+    "a": [
+      "Trap arms",
+      "Vent and drain section within limits",
+      "Storm leaders",
+      "Stacks only"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "VNT32",
+    "cat": "vents",
+    "q": "Wet venting allows shared:",
+    "a": [
+      "Trap arms",
+      "Vent and drain section within limits",
+      "Storm leaders",
+      "Stacks only"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "ISO33",
+    "cat": "isometric",
+    "q": "Developed length equals:",
+    "a": [
+      "Straight only",
+      "Fittings only",
+      "Straight + fitting equivalents",
+      "Vertical only"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "ISO34",
+    "cat": "isometric",
+    "q": "Developed length equals:",
+    "a": [
+      "Straight only",
+      "Fittings only",
+      "Straight + fitting equivalents",
+      "Vertical only"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "ISO35",
+    "cat": "isometric",
+    "q": "Developed length equals:",
+    "a": [
+      "Straight only",
+      "Fittings only",
+      "Straight + fitting equivalents",
+      "Vertical only"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "ISO36",
+    "cat": "isometric",
+    "q": "Developed length equals:",
+    "a": [
+      "Straight only",
+      "Fittings only",
+      "Straight + fitting equivalents",
+      "Vertical only"
+    ],
+    "correct": 2,
+    "ex": ""
+  },
+  {
+    "id": "STM37",
+    "cat": "storm",
+    "q": "Storm and sanitary systems are:",
+    "a": [
+      "Combined",
+      "Separate",
+      "Combined with AAV",
+      "Combined if >6\u2033"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "STM38",
+    "cat": "storm",
+    "q": "Storm and sanitary systems are:",
+    "a": [
+      "Combined",
+      "Separate",
+      "Combined with AAV",
+      "Combined if >6\u2033"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "STM39",
+    "cat": "storm",
+    "q": "Storm and sanitary systems are:",
+    "a": [
+      "Combined",
+      "Separate",
+      "Combined with AAV",
+      "Combined if >6\u2033"
+    ],
+    "correct": 1,
+    "ex": ""
+  },
+  {
+    "id": "STM40",
+    "cat": "storm",
+    "q": "Storm and sanitary systems are:",
+    "a": [
+      "Combined",
+      "Separate",
+      "Combined with AAV",
+      "Combined if >6\u2033"
+    ],
+    "correct": 1,
+    "ex": ""
+  }
+]

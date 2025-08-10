@@ -1,0 +1,38 @@
+[
+  {
+    "id": "business",
+    "name": "Indiana Business"
+  },
+  {
+    "id": "general",
+    "name": "General Requirements"
+  },
+  {
+    "id": "fixtures",
+    "name": "Fixtures"
+  },
+  {
+    "id": "water_heaters",
+    "name": "Water Heaters"
+  },
+  {
+    "id": "water_supply",
+    "name": "Water Supply & Distribution"
+  },
+  {
+    "id": "sanitary",
+    "name": "Sanitary Drainage"
+  },
+  {
+    "id": "vents",
+    "name": "Vents"
+  },
+  {
+    "id": "isometric",
+    "name": "Developed Length / Isometric Analysis"
+  },
+  {
+    "id": "storm",
+    "name": "Storm Water Systems"
+  }
+]

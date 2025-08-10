@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0B1221"><link rel="manifest" href="manifest.json">
+<title>Pass Track – Indiana Contractor (PROV)</title>
+<link rel="stylesheet" href="styles.css">
+</head><body>
+<div id="gate"><div class="gate-card">
+  <h2>Enter Access Code</h2>
+  <input type="password" id="gateInput" placeholder="Access code">
+  <button id="gateBtn" style="margin-top:10px;width:100%">Unlock</button>
+  <div class="err" id="gateErr"></div>
+  <p class="muted">Tip: Code is case-insensitive. Spaces are ignored.</p>
+  <div class="admin hidden" id="adminPanel">
+    <h3>Admin</h3>
+    <label>Analytics webhook (optional)
+      <input type="url" id="webhook" placeholder="https://your-webhook.example/endpoint">
+    </label>
+    <div style="display:flex; gap:8px; flex-wrap:wrap">
+      <button class="secondary" id="saveHook">Save</button>
+      <button class="secondary" id="exportCsv">Export CSV</button>
+      <button class="secondary" id="exportJson">Export JSON</button>
+    </div>
+    <p class="muted">Use master code to see this. Set a Google Apps Script or any HTTPS endpoint to collect usage.</p>
+  </div>
+</div></div>
+
+<header><h1>Pass Track</h1><p class="subtitle">Indiana Plumbing Contractor – PROV</p></header>
+<main id="app">
+  <section id="onboarding" class="card">
+    <h2>Start Pass Track</h2>
+    <label>Study reminder time <input type="time" id="studyTime" value="20:30"></label>
+    <button id="startBtn">Start Pass Track</button>
+    <p class="muted">Install to home screen for the best experience.</p>
+  </section>
+
+  <section id="dashboard" class="hidden">
+    <div class="cards">
+      <div class="card"><h3>Today’s Pack</h3><p id="todaySummary">Auto‑generated from your weakest categories.</p><button id="openPack">Open Pack</button></div>
+      <div class="card"><h3>Pass Readiness</h3><div id="readiness" class="meter"><span style="width:0%"></span></div><p class="muted" id="readinessText">Master categories (80%+ twice) to unlock 14‑Day Plan.</p></div>
+      <div class="card"><h3>Mistake Bank</h3><p id="mistakeCount">0 items</p><button id="reviewMistakes">Review</button></div>
+    </div>
+    <div class="cards">
+      <div class="card"><h3>Cheat Sheets</h3><div class="cheats"><a href="/data/cheats/indiana-business.html" target="_blank">Indiana Business & Law</a> <a href="/data/cheats/vents.html" target="_blank">Vents & Venting Rules</a></div><p class="muted">Cached offline after first open.</p></div>
+      <div class="card"><h3>Categories</h3><div id="catGrid" class="cat-grid"></div></div>
+      <div class="card"><h3>Full Simulator</h3><button id="fullSim">Start 100‑Q Timed Exam</button></div>
+    </div>
+  </section>
+
+  <section id="packRunner" class="hidden"><h2 id="packTitle">Today’s Pack</h2><div id="packStage"></div><button id="nextStage" class="hidden">Next</button></section>
+  <section id="simulator" class="hidden"><div class="sim-header"><div class="sim-controls"><button id="simExit">Exit</button></div><div class="sim-timer">Time: <span id="timer">03:00:00</span></div></div><div class="sim-body"><aside id="simNav"></aside><article id="simQ"></article></div></section>
+</main>
+<footer><button id="installBtn" class="hidden">Install App</button></footer>
+<script src="app.js"></script>
+</body></html>
